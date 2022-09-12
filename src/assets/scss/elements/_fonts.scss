@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: normal;
+  src: url('@/assets/font/OpenSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('@/assets/font/OpenSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('@/assets/font/OpenSans-Medium.ttf') format('truetype');
+}
+//@font-face {
+//  font-family: 'OpenSans';
+//  font-style: normal;
+//  font-weight: 700;
+//  src: url('OpenSans-Bold.ttf') format('truetype');
+//}
+//
+//@font-face {
+//  font-family: 'OpenSans';
+//  font-style: normal;
+//  font-weight: 700;
+//  src: url('OpenSans-Bold.ttf') format('truetype');
+//}
+//
+//@font-face {
+//  font-family: 'OpenSans';
+//  font-style: normal;
+//  font-weight: 700;
+//  src: url('OpenSans-Bold.ttf') format('truetype');
+//}
+
+body {
+  font-family: 'OpenSans', sans-serif;
+  font-weight: normal;
+}
